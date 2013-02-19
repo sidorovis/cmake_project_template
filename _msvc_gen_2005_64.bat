@@ -2,9 +2,9 @@
 
 set SOLUTION_NAME=project_example
 
-#set BOOST_ROOT=d:\usr\boost_1_47_0
-#set BOOST_PROCESS_ROOT=d:\usr\boost.process
-#set SYSTEM_UTILITIES_ROOT=d:\usr\system_utilities
+rem set BOOST_ROOT=d:\usr\boost_1_47_0
+rem set BOOST_PROCESS_ROOT=d:\usr\boost.process
+rem set SYSTEM_UTILITIES_ROOT=d:\usr\system_utilities
 
 set BUILD_TYPE=Debug
 if [%1]==[Release] (
